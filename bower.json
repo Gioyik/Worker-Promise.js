@@ -1,0 +1,22 @@
+{
+  "name": "Worker-Promise.js,
+  "version": "0.0.1",
+  "description": "Web Worker + promises",
+  "main": "Worker-Promise.js",
+  "keywords": [
+    "promise",
+    "web-workers"
+  ],
+  "license": "MIT",
+  "homepage": "http://gioyik.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q": "~1.0"
+  }
+}
