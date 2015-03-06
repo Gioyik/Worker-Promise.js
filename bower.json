@@ -9,13 +9,6 @@
   ],
   "license": "MIT",
   "homepage": "http://gioyik.com",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
     "q": "~1.0"
   }
